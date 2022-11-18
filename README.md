@@ -1,4 +1,3 @@
 
-<strong>Hey my name is Gustavo Malimpensa</strong 
-font-size:30px >
+<strong font-size=30px >Hey my name is Gustavo Malimpensa</strong>
 
