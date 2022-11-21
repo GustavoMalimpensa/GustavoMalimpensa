@@ -1,4 +1,4 @@
-## Oii eu sou o Gustavo Malimpensa, Bem vindo ao meu perfil!
+## Hi, I'm Gustavo Malimpensa, Welcome to my profile!
 
 <div>
 <a href="https://github.com/GustavoMalimpensa">
