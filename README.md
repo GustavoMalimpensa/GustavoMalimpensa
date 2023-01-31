@@ -18,4 +18,4 @@
   
  
   
-![Snake animation](https://github.com/GustavoMalimpensa/GustavoMalimpensa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GustavoMalimpensa/GustavoMalimpensa/blob/output/github-contribution-grid-snake.svg) 
